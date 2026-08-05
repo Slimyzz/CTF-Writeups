@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Using the strings command to extract readable text from binary files.
+2. Finding information inside a binary without executing it.
+
+Notes:
+The challenge required finding the flag without running the program. I used the strings command to display readable text contained within the binary and located the flag from the output.
