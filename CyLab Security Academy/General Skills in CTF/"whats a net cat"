@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Using the nc (Netcat) command to connect to a remote server.
+2. Understanding how to connect to an IP address using a specific port.
+
+Notes:
+A simple networking challenge where I connected to the given server using the `nc` command in the terminal to retrieve the flag. I also manually connected using the provided address and port after launching the instance, which helped me understand two different ways of accessing the service.
