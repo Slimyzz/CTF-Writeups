@@ -1,0 +1,18 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Connecting to a remote machine using SSH.
+2. Listing files with ls.
+3. Navigating directories using cd.
+4. Reading file contents using cat.
+
+Notes:
+A basic Linux challenge that introduced connecting to a remote machine through SSH. After logging in, I used commands such as ls to list files, cd to move between directories, and cat to read the file containing the flag.
+
+Commands Practised:
+- ssh
+- ls
+- cd
+- cat
