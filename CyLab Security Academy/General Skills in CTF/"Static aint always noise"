@@ -1,0 +1,11 @@
+Date: 5 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Inspecting binary files.
+2. Understanding that binaries can contain readable text alongside machine code.
+3. Using the provided bash script to analyse the binary.
+
+Notes:
+The binary mostly contained unreadable data with some random readable text. By analysing it with the provided bash script, I was able to locate the hidden flag. This challenge introduced me to the idea that useful information can sometimes be embedded inside binary files.
