@@ -1,0 +1,11 @@
+Date: 5 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Using `nc` (Netcat) to communicate with a remote service.
+2. Identifying ASCII decimal values.
+3. Converting ASCII decimal numbers into readable text.
+
+Notes:
+The challenge provided a list of decimal numbers after connecting to the server using `nc`. I recognized that the numbers represented ASCII values and converted them into text to reveal the flag. This helped me understand how text can be encoded as decimal ASCII values in CTF challenges.
