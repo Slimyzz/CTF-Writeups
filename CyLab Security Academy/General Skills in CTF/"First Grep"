@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 1 minute
+
+Skills Learnt:
+1. Searching for specific text within files.
+2. Using built-in search tools instead of manually reading large files.
+
+Notes:
+A simple challenge where I had to locate the flag inside a file. Instead of searching manually, I used winrars built-in search feature to quickly find the flag.
