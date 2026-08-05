@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Running a Python script from the terminal.
+2. Converting decimal (Base 10) to binary (Base 2).
+
+Notes:
+A simple challenge where I had to run the provided Python script, convert the given decimal number to binary, and use the result to obtain the flag. 
