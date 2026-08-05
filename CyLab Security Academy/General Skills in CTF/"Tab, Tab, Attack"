@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Navigating long directory and file names more efficiently.
+2. Using features efficiently like winrars find feature
+
+Notes:
+A simple challenge that introduced terminal tab completion. Instead of typing long directory or file names manually, since we were provided with zip I just used winrars search feature to find the flag easily
