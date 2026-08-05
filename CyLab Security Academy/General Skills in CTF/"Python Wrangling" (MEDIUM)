@@ -3,15 +3,15 @@ Date: 5 August 2026
 Time Taken: 10 minutes
 
 Skills Learnt:
-1. Downloading files using `wget`.
+1. Downloading files using wget.
 2. Running Python scripts with command-line arguments.
 3. Understanding basic script usage and error messages.
 4. Using a password file to decrypt an encrypted file.
 
 Notes:
-I first downloaded the required files (`ende.py`, `password.txt`, and `flag.txt.en`) using `wget`. I initially ran the script with incorrect arguments and received usage and decryption errors. After reading the error messages and understanding how the script worked, I used the correct command with `flag.txt.en` and the password from `password.txt` to successfully decrypt the file and obtain the flag.
+I first downloaded the required files (ende.py, password.txt , and  flag.txt.en ) using  wget . I initially ran the script with incorrect arguments and received usage and decryption errors. After reading the error messages and understanding how the script worked, I used the correct command with  flag.txt.en  and the password from  password.txt  to successfully decrypt the file and obtain the flag.
 
 Commands Practised:
-- `wget`
-- `python ende.py`
-- `python ende.py -d flag.txt.en`
+- wget
+- python ende.py
+- python ende.py -d flag.txt.en
