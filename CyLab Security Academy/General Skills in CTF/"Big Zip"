@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Extracting compressed archives.
+2. Using WinRAR's search feature to locate files quickly.
+
+Notes:
+I extracted the ZIP archive using WinRAR and used its search feature to quickly locate the file containing the flag instead of manually checking every folder.
