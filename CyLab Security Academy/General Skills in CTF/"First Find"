@@ -1,0 +1,10 @@
+Date: 5 August 2026
+
+Time Taken: 1 minute
+
+Skills Learnt:
+1. Extracting compressed archives.
+2. Navigating folders to locate specific files.
+
+Notes:
+A simple challenge where I extracted the archive and searched through the folders to find the file named `uber-secret.txt`, which contained the flag. It helped reinforce basic file extraction and directory navigation.
