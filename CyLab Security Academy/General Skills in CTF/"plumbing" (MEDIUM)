@@ -1,0 +1,11 @@
+Date: 5 August 2026
+
+Time Taken: 4 minutes
+
+Skills Learnt:
+1. Using pipes (|) in the terminal.
+2. Using grep to search command output.
+3. Combining nc and grep to filter useful information.
+
+Notes:
+The challenge required searching the output of a program instead of a file. I connected to the remote service using nc and piped the output into grep to search for the flag. This introduced me to using pipes to combine multiple Linux commands.
