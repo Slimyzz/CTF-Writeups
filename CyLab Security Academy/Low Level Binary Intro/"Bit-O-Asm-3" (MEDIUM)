@@ -1,0 +1,15 @@
+Date: 6 August 2026
+
+Time Taken: 5 minutes
+
+Skills Learnt:
+1. Reading basic x86-64 assembly instructions.
+2. Following arithmetic operations performed on CPU registers.
+3. Understanding the imul instruction for multiplication.
+4. Converting hexadecimal values to decimal.
+
+Notes:
+This challenge required tracing the value stored in the eax register through multiple assembly instructions. The initial hexadecimal value was loaded into eax, multiplied using the imul instruction, and then increased by a hexadecimal constant using the add instruction. After calculating the final decimal value, I obtained the correct flag.
+
+Commands Practised:
+1. cat
