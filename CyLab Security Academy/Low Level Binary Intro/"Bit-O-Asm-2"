@@ -1,0 +1,15 @@
+Date: 6 August 2026
+
+Time Taken: 4 minutes
+
+Skills Learnt:
+1. Reading basic x86-64 assembly instructions.
+2. Understanding how values are stored in memory and loaded into CPU registers.
+3. Converting hexadecimal values to decimal.
+4. Analysing simple assembly code.
+
+Notes:
+This challenge required tracing the value stored in memory before it was moved into the eax register. The value 0x9fe1a was first written to memory and then loaded into eax. After converting the hexadecimal value to decimal, I obtained the correct flag.
+
+Commands Practised:
+1. cat
