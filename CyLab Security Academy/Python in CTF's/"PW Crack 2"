@@ -1,0 +1,21 @@
+Date: 6 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Inspecting Python source code to understand program logic.
+2. Identifying misleading files (red herrings) in a challenge.
+3. Converting hexadecimal values to ASCII.
+4. Running Python scripts from the terminal.
+
+Notes:
+This challenge contained multiple red herrings, including an encrypted flag file that was not immediately useful. I inspected the Python source code using nano and found that the password was stored in hexadecimal format. After converting the hex value to ASCII, I obtained the correct password, entered it into the program, and successfully revealed the flag. This challenge reinforced the importance of carefully analysing source code and recognising different data encodings.
+
+Commands Practised:
+1. mkdir
+2. cd
+3. wget
+4. ls
+5. cat
+6. nano
+7. python
