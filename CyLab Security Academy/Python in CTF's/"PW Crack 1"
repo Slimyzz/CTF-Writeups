@@ -1,0 +1,19 @@
+Date: 6 August 2026
+
+Time Taken: 6 minutes
+
+Skills Learnt:
+1. Inspecting Python source code to understand program logic.
+2. Identifying hardcoded values within a Python script.
+3. Running Python scripts from the terminal.
+4. Recognising misleading files (red herrings) in CTF challenges.
+
+Notes:
+I downloaded the challenge files and initially looked at the encrypted flag file, but it turned out to be a red herring. Instead, I inspected the Python source code using nano and found that the correct password was hardcoded inside the script. After entering the discovered password, the program successfully revealed the flag. This challenge reinforced the importance of analysing source code instead of assuming every provided file is required.
+
+Commands Practised:
+1. wget
+2. ls
+3. cd
+4. nano
+5. python
