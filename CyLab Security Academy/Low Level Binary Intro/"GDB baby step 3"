@@ -1,0 +1,19 @@
+Date: 5 August 2026
+
+Time Taken: 1 hour
+
+Skills Learnt:
+1. Setting breakpoints in GDB.
+2. Examining memory using the x command.
+3. Understanding little-endian byte order.
+4. Reading values stored on the stack.
+
+Notes:
+This challenge required examining how a value was stored in memory instead of reading it directly from a register. I used GDB to set a breakpoint after the value was written to the stack and inspected the memory using the x/4xb command. This helped me understand little-endian byte ordering and how values are stored differently in memory compared to how they appear in assembly instructions.
+
+Commands Practised:
+- gdb
+- disassemble main
+- break
+- run
+- x/4xb
