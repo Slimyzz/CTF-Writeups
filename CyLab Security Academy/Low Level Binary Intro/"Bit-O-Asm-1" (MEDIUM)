@@ -1,0 +1,15 @@
+Date: 6 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Reading basic x86-64 assembly instructions.
+2. Understanding the mov instruction.
+3. Converting hexadecimal values to decimal.
+4. Identifying values stored in CPU registers.
+
+Notes:
+A beginner reverse engineering challenge where I analysed a short assembly dump. The mov instruction loaded the value 0x30 into the eax register. I converted the hexadecimal value to decimal to obtain the correct flag. This challenge introduced me to reading simple assembly code and understanding CPU registers.
+
+Commands Practised:
+1. cat
