@@ -1,0 +1,18 @@
+Date: 6 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Identifying and fixing Python indentation errors.
+2. Editing Python scripts using nano.
+3. Running Python scripts from the terminal.
+
+Notes:
+A simple debugging challenge where the Python script failed due to an unexpected indentation error. I opened the file using nano, corrected the indentation, saved the changes, and ran the script again to successfully print the flag.
+
+Commands Practised:
+1. wget
+2. ls
+3. cat
+4. nano
+5. python
