@@ -1,0 +1,15 @@
+Date: 6 August 2026
+
+Time Taken: 5 minutes
+
+Skills Learnt:
+1. Understanding comparison instructions in x86-64 assembly.
+2. Learning how conditional jumps affect program execution.
+3. Tracing values through arithmetic operations.
+4. Converting hexadecimal values to decimal.
+
+Notes:
+This challenge introduced conditional branching using the cmp and jle instructions. I compared the initial value against the specified limit and determined that the jump condition was not met, so the subtraction instruction executed instead. After calculating the final decimal value stored in the eax register, I obtained the correct flag.
+
+Commands Practised:
+1. cat
