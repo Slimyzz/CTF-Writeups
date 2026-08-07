@@ -1,0 +1,19 @@
+Date: 5 August 2026
+
+Time Taken: ~15 minutes
+
+Skills Learnt:
+1. Disassembling functions using GDB.
+2. Following function calls in assembly.
+3. Identifying arithmetic operations on registers.
+4. Converting hexadecimal values to decimal.
+
+Notes:
+This challenge required analysing a function called by main instead of only inspecting the main function. I followed the function call in GDB, identified the instruction that multiplied the EAX register by a constant, and converted the hexadecimal constant to decimal to obtain the flag. This challenge helped me become more comfortable reading assembly across multiple functions instead of focusing on a single one.
+
+Commands Practised:
+- gdb
+- disassemble main
+- disassemble
+- break
+- run
