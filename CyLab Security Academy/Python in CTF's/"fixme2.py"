@@ -1,0 +1,15 @@
+Date: 6 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Identifying and fixing Python syntax errors.
+2. Editing Python scripts using nano.
+3. Running Python scripts from the terminal.
+
+Notes:
+Another simple debugging challenge where I had to identify and fix a Python syntax error. After editing the script with nano and correcting the code, I ran the script successfully to reveal the flag.
+
+Commands Practised:
+1. nano
+2. python
