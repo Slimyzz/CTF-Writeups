@@ -1,0 +1,15 @@
+Date: 5 August 2026
+
+Time Taken: 5 minutes
+
+Skills Learnt:
+1. Understanding the basics of RSA encryption.
+2. Recognising how a weak RSA modulus (N) can make decryption possible.
+3. Using an RSA decryption tool to recover plaintext.
+4. Identifying and reversing encoded output to reveal the final message.
+
+Notes:
+This challenge focused on RSA cryptography and demonstrated how an insecure RSA configuration can compromise encrypted data. I used the provided RSA values (N, e, and ciphertext) with an RSA decryption tool to recover the plaintext. After decrypting, I noticed the output was reversed, so I reversed the text to reveal the final flag. This challenge introduced me to practical RSA weaknesses and reinforced the importance of carefully analysing decrypted output before assuming the solution is complete.
+
+Tools Used:
+- RSA Decrypt (online tool)
