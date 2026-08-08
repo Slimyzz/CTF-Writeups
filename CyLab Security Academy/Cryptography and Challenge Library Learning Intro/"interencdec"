@@ -1,0 +1,15 @@
+Date: 5 August 2026
+
+Time Taken: 10 minutes
+
+Skills Learnt:
+1. Identifying multiple layers of encoding.
+2. Decoding Base64 encoded data.
+3. Decrypting a Caesar cipher.
+4. Understanding that CTF challenges can require multiple decoding steps.
+
+Notes:
+This challenge involved multiple decoding layers instead of a single encryption method. I first decoded the file from Base64 twice, then identified that the remaining text was encrypted using a Caesar cipher. After applying the correct shift, the plaintext revealed the flag. This challenge taught me to recognise when data may have been encoded or encrypted multiple times before reaching the final result.
+
+Tools Used:
+- CyberChef
