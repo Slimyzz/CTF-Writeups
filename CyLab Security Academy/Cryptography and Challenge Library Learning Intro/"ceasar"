@@ -1,0 +1,12 @@
+Date: 5 August 2026
+
+Time Taken: 3 minutes
+
+Skills Learnt:
+1. Understanding the Caesar cipher.
+2. Decrypting text encrypted with a substitution cipher.
+3. Identifying the correct shift to reveal readable plaintext.
+
+Notes:
+This challenge required decrypting a message that was encrypted using a Caesar cipher. I tested the character shifts until the plaintext became readable and used the decrypted message to obtain the flag. It introduced me to one of the most basic classical encryption techniques used in cryptography.
+
