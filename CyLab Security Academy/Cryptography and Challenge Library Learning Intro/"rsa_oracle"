@@ -1,0 +1,17 @@
+Date: 8 August 2026
+
+Time Taken: 2 hours
+
+Skills Learnt:
+1. Understanding RSA's multiplicative property.
+2. Learning how a decryption oracle can be abused.
+3. Using an encryption oracle to manipulate ciphertexts.
+4. Decrypting AES-encrypted files using OpenSSL.
+
+Notes:
+This was one of the hardest cryptography challenges I had completed. The challenge involved an RSA decryption oracle that refused to decrypt the original encrypted password. Instead of attacking RSA directly, I learnt how RSA's multiplicative property could be abused by creating a related ciphertext that the oracle would decrypt. After recovering the modified password, I derived the correct password and used OpenSSL to decrypt the AES-encrypted file and obtain the flag.
+
+Commands Practised:
+- nc
+- openssl enc -aes-256-cbc -d
+- wget
