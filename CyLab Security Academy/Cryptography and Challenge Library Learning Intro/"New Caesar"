@@ -1,0 +1,16 @@
+Date: 5 August 2026
+
+Time Taken: 45 minutes
+
+Skills Learnt:
+1. Reading and understanding Python source code.
+2. Analysing a custom encoding and encryption algorithm.
+3. Reversing a Caesar-style cipher with a custom alphabet.
+4. Writing a Python script to automate the decryption process.
+5. Understanding how multiple encoding and encryption stages work together.
+
+Notes:
+This challenge required analysing the provided Python source code instead of using a standard decoding tool. I examined how the custom Base16 encoding and Caesar-style shift worked, then wrote my own Python script to reverse the process and recover the original plaintext. This was one of the more challenging cryptography problems I had completed and helped improve my Python debugging and code analysis skills.
+
+Commands Practised:
+- python
