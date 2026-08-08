@@ -1,0 +1,14 @@
+Date: 5 August 2026
+
+Time Taken: 2 minutes
+
+Skills Learnt:
+1. Recognising a weak RSA configuration.
+2. Understanding how a small public exponent can affect RSA security.
+3. Using an RSA decryption tool to recover plaintext.
+
+Notes:
+This challenge involved decrypting an RSA-encrypted message using the provided values for N, e, and the ciphertext. Since the RSA configuration was vulnerable, I used an RSA decryption tool to recover the plaintext and obtain the flag. It reinforced the importance of secure RSA parameter selection and introduced another practical RSA weakness.
+
+Tools Used:
+- RSA Decrypt (online tool)
