@@ -1,0 +1,20 @@
+Date: 17 August 2026
+
+Time Taken: ~10 minutes
+
+Skills Learnt:
+
+1. Analysing a compiled Java class file.
+2. Using strings to find readable data inside a compiled file.
+3. Debugging and inspecting a program without having the original source code.
+4. Identifying useful hardcoded information inside compiled programs.
+
+Notes:
+This challenge was similar to the previous Safe Opener challenge, but this time only the compiled .class file was provided. I initially tried to decompile the file, but had issues with the decompiler. Instead, I used strings and debugging to inspect the compiled file and find the information needed to recover the safe password.
+
+This helped me understand that even without the original source code, compiled programs can still contain useful information that can be found through basic reverse engineering.
+
+Commands Practised:
+
+* strings
+* javap
