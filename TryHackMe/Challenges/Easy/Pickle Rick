@@ -1,0 +1,27 @@
+# Pickle Rick
+
+Date: 17 August 2026
+
+Platform: TryHackMe
+
+Room: Pickle Rick
+
+Skills Learnt:
+
+1. Used Nmap to scan the target and understand what ports and services were running.
+2. Used dirsearch for directory enumeration and to find hidden pages and files on the website.
+3. Used curl to quickly check web pages and files directly from the terminal.
+4. Did a lot of web forensics by checking the page source, HTML comments, robots.txt and other exposed files for useful information.
+5. Practiced finding hidden credentials and using small clues from different places to progress through the room.
+6. Got more comfortable with Linux navigation, file searching and checking permissions after getting access to the system.
+7. Learnt how web enumeration, web forensics and Linux enumeration can all be used together in one challenge.
+
+Notes:
+
+This room was mostly focused on web enumeration and web forensics. I started by scanning the machine with Nmap, then used dirsearch and curl to look around the web server and check files that were not obvious from the main page.
+
+A big part of the challenge was just investigating properly. I checked the source code, HTML comments, robots.txt and different files for clues, then used the information I found to get further access.
+
+After that, I had to look around the Linux system, search through files and directories and figure out where the remaining ingredients were stored.
+
+I liked this room because it felt more practical than the basic rooms. Instead of being given everything directly, I had to find small pieces of information and connect them together.
