@@ -1,0 +1,20 @@
+Date: 17 August 2026
+
+Time Taken: ~5 minutes
+
+Skills Learnt:
+
+1. Reading and understanding basic Java source code.
+2. Identifying hardcoded values inside a program.
+3. Understanding how Base64 encoding was being used to check the password.
+4. Decoding Base64 to recover the original password.
+
+Notes:
+This reverse engineering challenge provided the Java source code for a safe program. I looked through the openSafe function and found the hardcoded Base64 encoded password that the program compared against the user input. I decoded the Base64 value to recover the original password and used it in the picoCTF flag format.
+
+This helped me practise analysing source code and identifying important values instead of needing to run or brute-force the program.
+
+Tools Used:
+
+* Base64 decoder
+* Java source code analysis
